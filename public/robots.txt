@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://windows-11-ab82d98c.zappy5.app/sitemap.xml
